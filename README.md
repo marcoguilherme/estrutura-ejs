@@ -22,7 +22,7 @@ obs: Caso estiver utilizando o linux certifique-se de adicionar permissão de gr
 Para mais informações consulte o manual do terminal do seu sistema operacional.
 
 
-## Dependencias utilizadas no projeto
+### Dependencias utilizadas no projeto
 
 * body-parser: 1.18.2 - [Link](https://github.com/expressjs/body-parser)
 * consign: 0.1.6 - [Link](https://github.com/jarradseers/consign)
